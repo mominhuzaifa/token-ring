@@ -1,5 +1,4 @@
 # token-ring
 
-u need dateutil
-pip3 install python-dateutil
+
 python3 token-ring.py
